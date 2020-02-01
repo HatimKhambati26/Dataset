@@ -1,26 +1,52 @@
 <annotation>
+
 	<folder>ParleG</folder>
-	<filename>parleG-196.jpg</filename>
-	<path>C:\Users\Hatim\Desktop\Dataset\dataset1\ParleG\parleG-196.jpg</path>
+
+	<filename>000196.jpg</filename>
+
+	<path>C:\Users\Hatim\Desktop\Dataset\dataset1\ParleG\000196.jpg</path>
+
 	<source>
+
 		<database>Unknown</database>
+
 	</source>
+
 	<size>
+
 		<width>1920</width>
+
 		<height>1080</height>
+
 		<depth>3</depth>
+
 	</size>
+
 	<segmented>0</segmented>
+
 	<object>
+
 		<name>parle-g-b</name>
+
 		<pose>Unspecified</pose>
+
 		<truncated>1</truncated>
+
 		<difficult>0</difficult>
+
 		<bndbox>
+
 			<xmin>298</xmin>
+
 			<ymin>297</ymin>
+
 			<xmax>1920</xmax>
+
 			<ymax>1080</ymax>
+
 		</bndbox>
+
 	</object>
+
 </annotation>
+
