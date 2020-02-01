@@ -1,76 +1,152 @@
 <annotation>
 
+
+
 	<folder>ParleG</folder>
+
+
 
 	<filename>000226.jpg</filename>
 
+
+
 	<path>C:\Users\Hatim\Desktop\Dataset\dataset1\ParleG\000226.jpg</path>
+
+
 
 	<source>
 
+
+
 		<database>Unknown</database>
+
+
 
 	</source>
 
+
+
 	<size>
+
+
 
 		<width>1920</width>
 
+
+
 		<height>1080</height>
+
+
 
 		<depth>3</depth>
 
+
+
 	</size>
+
+
 
 	<segmented>0</segmented>
 
-	<object>
 
-		<name>parle-g-b</name>
-
-		<pose>Unspecified</pose>
-
-		<truncated>0</truncated>
-
-		<difficult>0</difficult>
-
-		<bndbox>
-
-			<xmin>789</xmin>
-
-			<ymin>317</ymin>
-
-			<xmax>1084</xmax>
-
-			<ymax>577</ymax>
-
-		</bndbox>
-
-	</object>
 
 	<object>
+
+
 
 		<name>parle-g</name>
 
+
+
 		<pose>Unspecified</pose>
 
-		<truncated>1</truncated>
+
+
+		<truncated>0</truncated>
+
+
 
 		<difficult>0</difficult>
 
+
+
 		<bndbox>
 
-			<xmin>1778</xmin>
 
-			<ymin>505</ymin>
 
-			<xmax>1920</xmax>
+			<xmin>789</xmin>
 
-			<ymax>823</ymax>
+
+
+			<ymin>317</ymin>
+
+
+
+			<xmax>1084</xmax>
+
+
+
+			<ymax>577</ymax>
+
+
 
 		</bndbox>
 
+
+
 	</object>
 
+
+
+	<object>
+
+
+
+		<name>parle-g</name>
+
+
+
+		<pose>Unspecified</pose>
+
+
+
+		<truncated>1</truncated>
+
+
+
+		<difficult>0</difficult>
+
+
+
+		<bndbox>
+
+
+
+			<xmin>1778</xmin>
+
+
+
+			<ymin>505</ymin>
+
+
+
+			<xmax>1920</xmax>
+
+
+
+			<ymax>823</ymax>
+
+
+
+		</bndbox>
+
+
+
+	</object>
+
+
+
 </annotation>
+
+
 

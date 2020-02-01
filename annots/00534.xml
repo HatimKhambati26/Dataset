@@ -1,52 +1,104 @@
 <annotation>
 
+
+
 	<folder>ParleG</folder>
+
+
 
 	<filename>000534.jpg</filename>
 
+
+
 	<path>C:\Users\Hatim\Desktop\Dataset\dataset1\ParleG\000534.jpg</path>
+
+
 
 	<source>
 
+
+
 		<database>Unknown</database>
+
+
 
 	</source>
 
+
+
 	<size>
+
+
 
 		<width>1080</width>
 
+
+
 		<height>1920</height>
+
+
 
 		<depth>3</depth>
 
+
+
 	</size>
+
+
 
 	<segmented>0</segmented>
 
+
+
 	<object>
+
+
 
 		<name>parle-g</name>
 
+
+
 		<pose>Unspecified</pose>
+
+
 
 		<truncated>1</truncated>
 
+
+
 		<difficult>0</difficult>
+
+
 
 		<bndbox>
 
+
+
 			<xmin>1</xmin>
+
+
 
 			<ymin>438</ymin>
 
+
+
 			<xmax>929</xmax>
+
+
 
 			<ymax>1610</ymax>
 
+
+
 		</bndbox>
+
+
 
 	</object>
 
+
+
 </annotation>
+
+
 
